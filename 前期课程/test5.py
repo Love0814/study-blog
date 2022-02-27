@@ -10,3 +10,4 @@ print(a.strip())
 
 b = 'you need python'
 print(b.replace(' ', '*'))
+print('*'.join(b.split()))  # 也可以

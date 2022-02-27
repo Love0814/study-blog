@@ -10,7 +10,10 @@ you need python
 
 a = 'you need python'
 
-print(a[0:3], "\n", a[4:8], '\n', a[-6:])
+print(a[0:3], "\n", a[4:8], '\n', a[-6:])    # 不好
+print(a.split())
+
 print(a[::2])
 print(a[::-2])
 print(a[::-1])
+

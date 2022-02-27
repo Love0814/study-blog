@@ -1,5 +1,3 @@
-#第一题 编写计算sin（π/4）+lg（5*e2）
-
 import math
 
 a = math.sin(math.pi / 4)
