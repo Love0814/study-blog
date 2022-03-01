@@ -11,3 +11,8 @@ skills = {'Python', 'R', 'SQL', 'Git', 'Tableau', 'SAS'}
 mySkills = {'Python', 'R'}
 
 print(mySkills.issubset(skills))
+
+"""
+参考答案：
+r = mySkills.intersection(skills)
+"""
