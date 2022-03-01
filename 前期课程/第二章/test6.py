@@ -16,3 +16,9 @@ lst.sort()
 lst.remove("t")
 
 print(lst)
+
+"""
+参考答案：
+set(lst)
+list(set(lst))
+"""
